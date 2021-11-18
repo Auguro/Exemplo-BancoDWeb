@@ -1,0 +1,25 @@
+<html>
+   <head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>Pagina Principal</title>
+		<link rel="stylesheet" href="style.css">
+
+   </head>
+   <body>
+   <div class="centralizado_ranking">
+		<div class="ranking" align = "left">
+			<form method="post" action="teste.php">
+				<button class="button"><span>Jogar</span><aaa>• 10 pontos se acertou a senha na primeira tentativa. <br>• 09 pontos se acertou a senha na segunda tentativa. <br>• 08 pontos se acertou a senha na terceira tentativa. <br>• 07 pontos se acertou a senha na quarta tentativa. <br>• 06 pontos se acertou a senha na quinta tentativa. <br>• 05 pontos se acertou a senha na sexta tentativa. <br>• 04 pontos se acertou a senha na sétima tentativa. <br>• 03 pontos se acertou a senha na oitava tentativa. <br>• 02 pontos se acertou a senha na nona tentativa. <br>• 01 ponto se acertou a senha na décima tentativa. <br>• 0 pontos se não acertou a senha.</aaa></button>
+				</div>
+			</form>	
+			</div>
+	<div class="centralizado_jogar">
+		<div class="jogar">
+			<form method="post" action="login.php">
+				<button disabled class="button"><span>Jogar</span><aaa>• 10 pontos se acertou a senha na primeira tentativa. <br>• 09 pontos se acertou a senha na segunda tentativa. <br>• 08 pontos se acertou a senha na terceira tentativa. <br>• 07 pontos se acertou a senha na quarta tentativa. <br>• 06 pontos se acertou a senha na quinta tentativa. <br>• 05 pontos se acertou a senha na sexta tentativa. <br>• 04 pontos se acertou a senha na sétima tentativa. <br>• 03 pontos se acertou a senha na oitava tentativa. <br>• 02 pontos se acertou a senha na nona tentativa. <br>• 01 ponto se acertou a senha na décima tentativa. <br>• 0 pontos se não acertou a senha.</aaa></button>
+				</div>
+			</form>	
+		</div>
+   </body>
+</html>
+

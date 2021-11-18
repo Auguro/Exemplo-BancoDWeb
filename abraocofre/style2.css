@@ -1,0 +1,124 @@
+.cofre{
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	width: 1280px;
+	height: 780px;
+	background-image: url('cofre.png');
+	background-repeat: no-repeat;
+	background-size: 1280px 780px;
+}
+
+.botoes{
+	display: inline-block;
+    border-radius: 4px;
+    background-color: #f4511e;
+    border: none;
+    color: #FFFFFF;
+    cursor: pointer;
+    opacity: 0;
+    float: left;
+    margin: 12px;
+	margin-bottom: 3.8px;
+    height: 75px;
+    width: 90px;
+}
+
+.botoes:hover {
+	background-color: #B3A1A1;
+	opacity: 1;
+}
+
+.aaa{
+	position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-40%, -28.6%);
+    width: 450px;
+    height: 250px;
+}
+
+.display1{
+	position: absolute;
+    left: 38.5%;
+    top: 26%;
+    transform: translate(-50%, -50%);
+    font-size: 48px;
+}
+
+.display2{
+	position: absolute;
+    left: 45.5%;
+    top: 26%;
+    transform: translate(-50%, -50%);
+    font-size: 48px;
+}
+
+.display3{
+	position: absolute;
+    left: 53.3%;
+    top: 26%;
+    transform: translate(-50%, -50%);
+    font-size: 48px;
+}
+
+.display4{
+	position: absolute;
+    left: 60%;
+    top: 26%;
+    transform: translate(-50%, -50%);
+    font-size: 48px;
+}
+
+.numCerto{
+    transform: translate(-138%, 140%);
+}
+
+.posCerta{
+    transform: translate(-123%, -42%);
+}
+
+.alavanca{
+	transform: translate(204px, -40px);
+    padding: 79px 18px;
+    border: none;
+}
+
+.alavanca:hover{
+	background-color: #f44336;
+}
+
+.tentativa{
+  height: 25px;
+  width: 25px;
+  background-color:gray;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.tentativa1{transform: translate(1648%, 391%);}
+.tentativa2{transform: translate(1707%, 391%);}
+.tentativa3{transform: translate(1766%, 391%);}
+.tentativa4{transform: translate(1825%, 391%);}
+.tentativa5{transform: translate(1884%, 391%);}
+.tentativa6{transform: translate(1943%, 391%);}
+.tentativa7{transform: translate(2002%, 391%);}
+.tentativa8{transform: translate(2061%, 391%);}
+.tentativa9{transform: translate(2120%, 391%);}
+.tentativa10{transform: translate(2179%, 391%);}
+
+.old{
+	font-family: "Times New Roman", Times, serif;
+	font-size: 48px;
+	height: 12px;
+	width: 25px;
+	display: block;
+	transform: translate(167px, 6px);
+}
+
+.old2{
+	transform: translate(888px, -288px)
+}
+
+
